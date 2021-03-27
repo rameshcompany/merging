@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name is ramesh
+=======
+hru
+>>>>>>> 3b7e9ce (tt)
